@@ -1,4 +1,4 @@
-# google-deceptive-api-v4-php
+# google-safe-browsing-v4.php
 This is for test purpose. I stumbled on internet and able to list Google deceptive websites using Google APIv4. 
 This is written in php. I am not a programmer so there might be mistakes or things that I have done wrong. If you want to make it yours, feel free to do it. Any help to make code better will be appreciated.  Thanks.
 
@@ -14,4 +14,4 @@ Then, in command line run following
 
 google-deceptive-malware.html will look like below if you browse from your browser:
 
-![ScreenShot](https://raw.githubusercontent.com/pkhadka56/google-deceptive-api-v4-php/master/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/pkhadka56/google-safe-browsing-v4.php/master/screenshot.png)
