@@ -14,4 +14,4 @@ Then, in command line run following
 
 google-deceptive-malware.html will look like below if you browse from your browser:
 
-![ScreenShot](https://raw.githubusercontent.com/pkhadka56/google-safe-browsing-v4.php/master/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/pkhadka56/google-deceptive-api-v4-php/master/screenshot.png)
